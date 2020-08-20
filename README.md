@@ -9,10 +9,10 @@ Webpage link: https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/cours
 Design of Wikipedia-like online encyclopedia. Uses Github Markdown syntax to write the contents of encyclopedia.
 
 <p>
-  <img src="https://user-images.githubusercontent.com/55930906/90832797-9cef4900-e314-11ea-8583-40d9216e63a1.png?raw=true"  width =450 height =450 alt= "index">
-  <img src="https://user-images.githubusercontent.com/55930906/90832794-9c56b280-e314-11ea-9333-f9996ad0ee99.png?raw=true"  width =450 height =450 alt= "search">
-  <img src="https://user-images.githubusercontent.com/55930906/90833142-6960ee80-e315-11ea-8e50-d76c1ac1f735.png?raw=true"  width =450 height =450 alt= "markdown2html">
-  <img src="https://user-images.githubusercontent.com/55930906/90832792-9c56b280-e314-11ea-934d-362a260e370a.png?raw=true"  width =450 height =450 alt= "index">
+  <img src="https://user-images.githubusercontent.com/55930906/90832797-9cef4900-e314-11ea-8583-40d9216e63a1.png?raw=true"  width =600 height =450 alt= "index">
+  <img src="https://user-images.githubusercontent.com/55930906/90832794-9c56b280-e314-11ea-9333-f9996ad0ee99.png?raw=true"  width =600 height =450 alt= "search">
+  <img src="https://user-images.githubusercontent.com/55930906/90833142-6960ee80-e315-11ea-8e50-d76c1ac1f735.png?raw=true"  width =600 height =450 alt= "markdown2html">
+  <img src="https://user-images.githubusercontent.com/55930906/90832792-9c56b280-e314-11ea-934d-362a260e370a.png?raw=true"  width =600 height =450 alt= "index">
 </p>  
 
 
