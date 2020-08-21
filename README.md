@@ -26,7 +26,7 @@ Design of Wikipedia-like online encyclopedia. Uses Github Markdown syntax to wri
 
 ### Markdown to HTML Conversion :
 
-Implemented the Markdown to HTML conversion without using any external libraries such as ***python-markdown2 package***
+Implementation of Markdown to HTML conversion.
 
 The File path is: 
 - **encyclopedia/templatetags/markdown.py** 
