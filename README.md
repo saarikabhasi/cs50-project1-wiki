@@ -2,7 +2,7 @@
 
 Webpage link: https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/course/
 
-Youtube :https://www.youtube.com/watch?reload=9&v=yecyd_-Drc0&feature=youtu.be
+Youtube :https://www.youtube.com/watch?v=yecyd_-Drc0
 
 # Project: Wiki
 
